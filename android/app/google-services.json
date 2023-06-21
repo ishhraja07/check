@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394329774274",
+    "project_id": "gondavalekar-55b25",
+    "storage_bucket": "gondavalekar-55b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394329774274:android:95512d9177bb97192ec35b",
+        "android_client_info": {
+          "package_name": "com.example.swami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394329774274-up4epv34b4mnfior0fi5tunqos0fkcq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5w6SLP_Rz-t3jD9nkzONEbx57YHv7W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394329774274-up4epv34b4mnfior0fi5tunqos0fkcq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
